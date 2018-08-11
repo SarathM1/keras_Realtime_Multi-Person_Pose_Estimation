@@ -3,3 +3,4 @@
 /model/*
 *.pyc
 /sample_image/*
+/train/.ipynb_checkpoints/*
